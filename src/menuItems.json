@@ -1,0 +1,30 @@
+{
+    "data" : [
+      {
+        "name": "Profile",
+        "children": [
+          {
+            "name": "Settings",
+            "url": "/components/Settings.js"
+          },
+          {
+            "name": "Notification",
+            "url": "/components/Notification.js"
+          }
+        ]
+      },
+      {
+        "name": "MyTasks",
+        "children": [
+          {
+            "name": "Task1",
+            "url": "/components/Task1.js"
+          },
+          {
+            "name": "Task2",
+            "url": "/task2"
+          }
+        ]
+      }
+    ]
+}
